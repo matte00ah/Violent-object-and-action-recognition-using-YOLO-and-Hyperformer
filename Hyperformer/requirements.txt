@@ -1,0 +1,17 @@
+opencv-python
+numpy
+vidaug
+scipy
+scikit-image
+ultralytics
+jax
+keras
+ignite
+networkx
+scikit-learn
+tensorboardX
+tensorflow
+seaborn
+pandas
+matplotlib
+pyyaml

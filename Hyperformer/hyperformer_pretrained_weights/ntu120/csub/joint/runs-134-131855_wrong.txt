@@ -1,0 +1,7 @@
+tensor(1),6,49
+tensor(2),23,50
+tensor(3),6,49
+tensor(4),23,50
+tensor(6),6,49
+tensor(7),23,50
+tensor(9),23,50
