@@ -13,6 +13,8 @@ The extracted skeletal data is used as the primary input to the Hyperformer mode
 
 The core of the work involves building a custom dataset, preprocessing it through this multi-stage AI pipeline, and evaluating the effect of integrating visual context (e.g., weapons, spatial clustering) on the model’s performance in classifying violent actions.
 
+### The project report is available as a PDF file in the repository.
+
 # Hyperfomer Evaluation with YOLO-Weapon Integration
 ## 📁 Dataset Preparation
 
